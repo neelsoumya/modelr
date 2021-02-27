@@ -10,6 +10,7 @@ The purpose of this package is a base for the development of an open-source fram
 Two commands and you are good to go:
 
 ```R
+library(devtools)
 devtools::install_github("neelsoumya/modelr")
 modelr::run()
 ```
